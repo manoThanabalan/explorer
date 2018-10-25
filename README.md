@@ -1,4 +1,4 @@
-# Explorer
+# IMMIN Business Blockchain Explorer
 
 <b>Live Version: [explorer.immin.io](https://explorer.immin.io)</b>
 
@@ -6,7 +6,7 @@
 
 Clone the repo
 
-`git clone https://github.com/ethereumproject/explorer`
+`git clone https://github.com/manoThanabalan/explorer`
 
 Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
 
