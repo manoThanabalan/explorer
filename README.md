@@ -1,8 +1,6 @@
-# ETCExplorer
+# Explorer
 
-<b>Live Version: [etherhub.io](http://etherhub.io)</b>
-
-Follow the project progress at: [ETC Block Explorer Development](https://github.com/ethereumproject/explorer)
+<b>Live Version: [explorer.immin.io](https://explorer.immin.io)</b>
 
 ## Local installation
 
